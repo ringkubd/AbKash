@@ -1,7 +1,7 @@
 <?php
 
 namespace Anwar\Abkash;
-
+use App\Http\Controllers\Controller;
 class AbkashController extends Controller {
 
 	/*
