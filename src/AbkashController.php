@@ -46,7 +46,10 @@ class AbkashController extends Controller {
 	*/
 
 	public function validate_response($abkashresponse) {
-
+		if(is_null($abkashresponse))
+		{
+			return "Config Error . Please Contact with Support";;
+		}
 		switch ($abkashresponse->trxStatus) {
 		case '0010':
 		case '0011':
