@@ -1,0 +1,29 @@
+{
+    "name": "anwar/abkash",
+    "description": "Bkash payment gateway for Bangladesh bKash \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ci mobile payment service.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MD ANWAR JAHID",
+            "email": "ajr.jahid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    "psr-4": {
+      "Anwar\\": "src/"
+    }
+  },
+    "extra": {
+    "laravel": {
+      "providers": [
+        "Anwar\\Abkash\\AbkashServiceProvider"
+      ],
+      "aliases": {
+            "Abkash": "Anwar\\Abkash\\Faceds\\AbkashFaced"
+        }
+    }
+  }
+}
