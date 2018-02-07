@@ -1,6 +1,6 @@
 {
     "name": "anwar/abkash",
-    "description": "Bkash payment gateway for Bangladesh bKash \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ci mobile payment service.",
+    "description": "Bkash payment gateway for Bangladesh bKash a mobile payment service.",
     "type": "library",
     "license": "MIT",
     "authors": [
