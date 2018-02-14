@@ -1,6 +1,6 @@
 {
     "name": "anwar/abkash",
-    "description": "Bkash payment gateway for Bangladesh bKash a mobile payment service.",
+    "description": "Laravel Bkash payment gateway for Bangladesh bKash a mobile payment service.",
     "type": "library",
     "license": "MIT",
     "keywords":["bKash","payment","bKash marchant","abKash","bKash API","bKash auto payment verification","bkash laravel","laravel payment","bkash payment bangladesh"],
