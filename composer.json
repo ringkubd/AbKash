@@ -3,7 +3,7 @@
     "description": "Bkash payment gateway for Bangladesh bKash a mobile payment service.",
     "type": "library",
     "license": "MIT",
-    "keywords":["bKash","bKash marchant","abKash","bKash API","bKash auto payment verification","bkash laravel","laravel payment","bkash payment bangladesh"],
+    "keywords":["bKash","payment","bKash marchant","abKash","bKash API","bKash auto payment verification","bkash laravel","laravel payment","bkash payment bangladesh"],
     "authors": [
         {
             "name": "MD ANWAR JAHID",
