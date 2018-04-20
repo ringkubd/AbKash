@@ -12,4 +12,4 @@ env:
   global:
     - CI=true
   matrix:
-    - TEST_DOC=true
+    - TEST_DOC=false
