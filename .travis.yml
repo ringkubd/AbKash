@@ -8,8 +8,6 @@ sudo: false
 
 install: travis_retry composer install --no-interaction --prefer-source
 
-script: vendor/bin/phpunit
-
 env:
   global:
     - CI=true
