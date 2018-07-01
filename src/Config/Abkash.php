@@ -7,9 +7,9 @@
  * @Last Modified time: 2018-02-07 11:32:48
  */
 return [
-	"Abkash" => [
-		'username' => '',
-		'password' => '',
-		'mobile' => '',
-	],
+    'Abkash' => [
+        'username' => '',
+        'password' => '',
+        'mobile'   => '',
+    ],
 ];
