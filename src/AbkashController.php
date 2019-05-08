@@ -1,7 +1,7 @@
 <?php
 namespace Anwar\Abkash;
 
-class AbkashController extends Controller {
+class AbkashController extends \App\Http\Controllers\Controller {
 
 	/*
 		* bKAsh Marchecnt api
